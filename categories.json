@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Cocina",
+    "description": "Preguntas relacionadas con cocina y recetas."
+  },
+  {
+    "category": "Tecnologia",
+    "description": "Preguntas relacionadas con Lenguajes de programación, diseño web, docker, computación en la nube."
+  },
+  {
+    "category": "Musica",
+    "description": "Preguntas relacionadas con todos los estilos de música."
+  },
+  {
+    "category": "Espiritualidad",
+    "description": "Preguntas relacionadas con temas de esoterismo moderno."
+  },
+  {
+    "category": "Deporte",
+    "description": "Preguntas relacionadas con deportes como Raquet y natación."
+  },
+  {
+    "category": "Trabajo",
+    "description": "Preguntas relacionadas a la búsqueda de trabajo."
+  }
+]
